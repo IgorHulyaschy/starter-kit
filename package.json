@@ -1,11 +1,12 @@
 {
-  "name": "starter-kit",
+  "name": "@ihorhulyaschyi/starter-kit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./cli/start.mjs",
   "keywords": [],
   "author": "",
   "license": "ISC"

@@ -1,0 +1,29 @@
+# App
+/config
+/dist
+/src/pids
+/src/log
+
+.env
+
+# IDE
+.idea
+.project
+.vscode
+
+# Logs
+*.log
+npm-debug.log*
+usageLog
+
+# Runtime data
+pids/*
+
+# Node
+node_modules
+
+# OS
+*.DS_Store
+
+# Test coverage
+/coverage
